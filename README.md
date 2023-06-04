@@ -17,8 +17,14 @@ Modal view: When a contact is selected from the list, a modal is displayed showi
 4- Use an emulator or scan the QR code to launch the app on a physical device.
 
   # Screenshots
+  
   ![WhatsApp Image 2023-06-05 at 12 53 41 AM](https://github.com/razahamid91/Contact_App/assets/74106196/441a1f23-4028-48f7-8868-8e68bfb0766e)
 
 ![WhatsApp Image 2023-06-05 at 12 53 41 AM (2)](https://github.com/razahamid91/Contact_App/assets/74106196/4a2d641f-72ea-4e75-847d-84aad69efa9b)
   
   ![WhatsApp Image 2023-06-05 at 12 53 41 AM (1)](https://github.com/razahamid91/Contact_App/assets/74106196/ce0efb5c-ee68-45d1-9aa3-ad80386e0967)
+  
+ 
+  # Deployment QR code 
+  
+![image](https://github.com/razahamid91/Contact_App/assets/74106196/d0c1d728-482f-4536-8389-c02feef2a70f)
